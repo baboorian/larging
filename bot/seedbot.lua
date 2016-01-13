@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "Plugins",
     },
-    sudo_users = {156539679},--Sudo users
+    sudo_users = {78260209},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
